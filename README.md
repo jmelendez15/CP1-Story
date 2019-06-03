@@ -2,8 +2,7 @@
 I woke up
 I brushed my teeth
 I got dressed
-I got in the car 
-I drove to school
+I got a ride to school
 I went to class
 I went to lunch
 I went back to class
